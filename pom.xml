@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.108.250.110:9980/mithuntechnologies/repository/flipkart-release/</url>
+	      <url>http://43.205.177.79:8081/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.108.250.110:9980/mithuntechnologies/repository/flipkart-snapshot/</url>
+	      <url>http://43.205.177.79:8081/repository/walmart-snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
